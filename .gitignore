@@ -1,0 +1,6 @@
+reduced_xlnet/
+wav2vec2/
+*.safetensors
+*.pt
+*.pth
+*.bin

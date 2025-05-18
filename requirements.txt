@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+torchaudio
+numpy
+python-dotenv
+supabase
+httpx
+unzip 
+pydantic
+gdown
+
+
