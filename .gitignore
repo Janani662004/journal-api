@@ -1,6 +1,9 @@
 reduced_xlnet/
 wav2vec2/
-*.safetensors
 *.pt
-*.pth
-*.bin
+*.pkl
+*.h5
+*.ckpt
+*.zip
+*.tar.gz
+__pycache__/
